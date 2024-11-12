@@ -8,4 +8,4 @@ Objetivos de Aprendizaje
 
 
 Este es mi código que estuvimos realizando en la clase:
-!vista previa (https://imgur.com/a/RKvjMj0)
+!vista previa (https://imgur.com/a/1DrN5gF)
